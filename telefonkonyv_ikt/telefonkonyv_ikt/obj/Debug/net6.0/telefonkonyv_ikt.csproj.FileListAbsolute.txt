@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\obj\Debug\net6.0\telefonkonyv_ikt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\obj\Debug\net6.0\telefonkonyv_ikt.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\obj\Debug\net6.0\telefonkonyv_ikt.AssemblyInfo.cs
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\obj\Debug\net6.0\telefonkonyv_ikt.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\bin\Debug\net6.0\telefonkonyv_ikt.exe
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\bin\Debug\net6.0\telefonkonyv_ikt.deps.json
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\bin\Debug\net6.0\telefonkonyv_ikt.runtimeconfig.json
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\bin\Debug\net6.0\telefonkonyv_ikt.dll
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\bin\Debug\net6.0\telefonkonyv_ikt.pdb
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\obj\Debug\net6.0\telefonkonyv_ikt.dll
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\obj\Debug\net6.0\refint\telefonkonyv_ikt.dll
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\obj\Debug\net6.0\telefonkonyv_ikt.pdb
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\obj\Debug\net6.0\telefonkonyv_ikt.genruntimeconfig.cache
+C:\Users\HP\source\repos\telefonkonyv_ikt\telefonkonyv_ikt\obj\Debug\net6.0\ref\telefonkonyv_ikt.dll
